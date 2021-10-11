@@ -23,6 +23,7 @@ I use virtual box vm
  
  ### Tutorials
  + FreeCodeCamp : https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/
+ + Servicemesh with kublr : https://kublr.com/blog/implementing-a-service-mesh-with-istio-to-simplify-microservices-communication/
  
  ### Documentation and reference URLS
  + Docs: https://minikube.sigs.k8s.io/docs/start/
